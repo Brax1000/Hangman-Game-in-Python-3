@@ -1,3 +1,4 @@
+#brax:3
 import random
 
 WORDS = [
